@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+streamlit
+fastapi
+# "uvicorn[standard]"
+sqlalchemy
+pydantic-settings
+pytest
+httpx
+joblib

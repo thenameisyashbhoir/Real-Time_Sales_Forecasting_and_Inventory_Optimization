@@ -2,6 +2,8 @@ pandas
 numpy
 scikit-learn
 matplotlib
+seaborn
+pyarrow
 plotly
 streamlit
 fastapi
@@ -11,3 +13,5 @@ pydantic-settings
 pytest
 httpx
 joblib
+jupyter
+ipykernel
